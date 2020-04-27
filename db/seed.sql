@@ -1,0 +1,10 @@
+INSERT INTO burgers (name) VALUES ('Single') ;
+INSERT INTO burgers (name) VALUES ('Double') ;
+INSERT INTO burgers (name) VALUES ('Bacon') ;
+INSERT INTO burgers (name) VALUES ('Double Bacon') ;
+INSERT INTO burgers (name) VALUES ('Single Cheese') ;
+INSERT INTO burgers (name) VALUES ('Double Cheese') ;
+INSERT INTO burgers (name) VALUES ('Mushroom&Swiss') ;
+INSERT INTO burgers (name) VALUES ('Frisco') ;
+INSERT INTO burgers (name) VALUES ('Veggie') ;
+INSERT INTO burgers (name) VALUES ('Kids') ;
