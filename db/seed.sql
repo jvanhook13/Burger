@@ -1,3 +1,6 @@
+-- You can use this to seed your database or use the burger adder form to add a custom burger of your choice
+
+
 INSERT INTO burgers (name, devoured) VALUES ('Single') ;
 INSERT INTO burgers (name) VALUES ('Double') ;
 INSERT INTO burgers (name, devoured) VALUES ('Bacon') ;

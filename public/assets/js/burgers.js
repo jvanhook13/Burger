@@ -8,7 +8,7 @@ $(function() {
       } ;
 
 
-      console.log(newDevour , "fix bug?")
+      
 
   
       // Send the PUT request.
